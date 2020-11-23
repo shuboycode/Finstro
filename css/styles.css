@@ -1,0 +1,158 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#title {
+          background-color: rgb(253, 112, 56);
+          text-align: left;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 70px;
+    color: white;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 3rem;
+    text-align: center;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+}
+p {
+    color: #8f8f8f;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+}
+.Container-fluid {
+    padding: 3% 15%;
+}
+.btn-outline-light:hover {
+    background-color: rgb(221, 221, 221);
+}
+.title-image {
+    width: 90%;
+    margin-left: 1rem;
+    position: relative;
+    bottom: 10px;
+    left: 50px;
+  
+}
+
+/* Navigation Bar */
+.navbar {
+    padding-left: 0;
+}
+.nav-item {
+    padding: 18px;
+    padding-bottom: 3rem;
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding-bottom: 3rem;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+/* features */
+#features {
+    background-color: #fff;
+    position: relative;
+    bottom: 110px;
+    
+}
+.fas {
+    color: rgb(241, 124, 78);
+    font-size: 70px;
+    margin: 7rem 5rem 1rem;
+}
+.fas:hover {
+    color: rgb(253, 112, 56);
+}
+
+/* Testimoial section */
+
+#testimonials {
+    background-color: rgb(241, 124, 78);
+    color: #fff;
+    text-align: center;
+}
+.testimonial-image {
+    border-radius: 100%;
+    width: 15%;    
+    padding: 10px;
+}
+
+
+.carousel-inner {
+    padding: 7% 15%;
+}
+
+/* Press section */
+
+#press {
+    background-color:  rgb(241, 124, 78);
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.press-images {
+    height: 3rem;
+    margin: 10px 27px;
+}
+
+
+.press-images1 {
+    width: 150px;
+    height: 50px;
+}
+
+/* Pricing Section */
+
+#pricing {
+    margin: 7% 15%;
+}
+
+.pricing-description {
+    margin-bottom: 5%;
+}
+
+
+.pricing-box {
+    padding: 0 2%;
+}
+
+/* Cta section */
+
+#cta {
+    padding: 5% 15%;
+    background-color: rgb(253, 112, 56);
+    color: #fff;
+}
+
+.cta-description {
+    padding-top: 5%;
+    font-size: 3.5rem;
+}
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    font-size: 27px;
+    padding: 5% 7%;
+}
+
+.footer-logo {
+    padding: 27px 17px;  
+}
+
+.copyright {
+    color: rgba(82, 79, 79, 0.445);
+}
